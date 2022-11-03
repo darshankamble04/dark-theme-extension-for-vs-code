@@ -1,16 +1,31 @@
-# dark-classic-theme README
+<img src="" width="250">
+<h1 align="center">
+  <br>
+    <img src="https://notebook-covers.s3.us-west-2.amazonaws.com/29da9611eab55dda00771e73a95b9f4e" alt="logo" width="200">
+  <br>
+    <br>
+    Dark Classic Theme
+    <br>
+  <br>
+</h1>
 
-## Working with Markdown
+## Theme Preview
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+<div align="center">
+    <img src="https://notebook-covers.s3.us-west-2.amazonaws.com/26c2f763fc9b346193d61d13ffe3b59f" alt="logo" >
+</div>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## To install
+
+- Search for "dark-classic-theme" e first theme in marketplace in Visual Studio Code, and set the color theme.
+
+## To contribute
+
+- Open a Issue or a Pull Request [here](https://github.com/darshankamble04/dark-theme-extension-for-vs-code)
 
 ## For more information
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
+- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
