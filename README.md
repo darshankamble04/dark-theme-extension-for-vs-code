@@ -1,4 +1,3 @@
-<img src="" width="250">
 <h1 align="center">
   <br>
     <img src="https://github.com/darshankamble04/dark-theme-extension-for-vs-code/blob/main/logo.png?raw=true" alt="logo" width="200">
@@ -12,7 +11,7 @@
 ## Theme Preview
 
 <div align="center">
-    <img src="https://notebook-covers.s3.us-west-2.amazonaws.com/26c2f763fc9b346193d61d13ffe3b59f" alt="logo" >
+    <img src="https://github.com/darshankamble04/dark-theme-extension-for-vs-code/blob/main/preview.png?raw=true" alt="Preview" >
 </div>
 
 ## To install
