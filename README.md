@@ -1,7 +1,7 @@
 <img src="" width="250">
 <h1 align="center">
   <br>
-    <img src="https://notebook-covers.s3.us-west-2.amazonaws.com/29da9611eab55dda00771e73a95b9f4e" alt="logo" width="200">
+    <img src="https://github.com/darshankamble04/dark-theme-extension-for-vs-code/blob/main/logo.png?raw=true" alt="logo" width="200">
   <br>
     <br>
     Dark Classic Theme
