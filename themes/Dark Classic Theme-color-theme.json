@@ -3,7 +3,7 @@
 	
 	"name": "Dark Classic Theme",
 	"colors": {
-		"editor.background": "#181b28",
+		"editor.background": "#1e1e2e",
 		"editor.foreground": "#eeffff",
 		"editorLineNumber.foreground":"#5e5e5ebc",
 		"editor.selectionBackground":"#00d0ff47",
